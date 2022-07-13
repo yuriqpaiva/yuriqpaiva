@@ -1,16 +1,13 @@
-### Hi there 👋
+### Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-<!--
-**yuriqpaiva/yuriqpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a **Front-end** developer
 
-Here are some ideas to get you started:
+- 💬 Ask me about **JavaScript**, **HTML**, **CSS**, **ReactJS**, **Node.JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **ReactJS** or **Node.JS** projects
+
+<div align="center">
+  <a href="https://github.com/yuriqpaiva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriqpaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriqpaiva&layout=compact&langs_count=7&theme=react"/>
+</div>
