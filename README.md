@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **ReactJS** or **Node.JS** projects
 
-- 👨🏻‍💻 More information at [yuripaiva](https://www.yuripaiva.dev/)
+- 👨🏻‍💻 More information at [yuripaiva.dev](https://www.yuripaiva.dev/)
 
 <div align="left">
   <a href="https://github.com/yuriqpaiva">
