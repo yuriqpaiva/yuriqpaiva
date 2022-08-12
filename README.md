@@ -6,6 +6,8 @@
 
 - 👯 I’m looking to collaborate on **ReactJS** or **Node.JS** projects
 
+- 👨🏻‍💻 More information at [yuripaiva](https://www.yuripaiva.dev/)
+
 <div align="left">
   <a href="https://github.com/yuriqpaiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuriqpaiva&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
