@@ -1,4 +1,4 @@
-# Welcome! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+# Welcome! 👋🏻
 
 - 🔭 I’m currently working as a **Front-end** developer (**ReactJS** and **React Native**)
 
