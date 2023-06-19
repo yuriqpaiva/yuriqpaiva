@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **JavaScript**, **HTML**, **CSS**, **ReactJS**, **Node.JS**
 
-- 👯 I’m looking to collaborate on **ReactJS** or **Node.JS** projects
+- 🤝 I’m looking to collaborate on **ReactJS** or **Node.JS** projects
 
 - 👨🏻‍💻 More information at [yuripaiva.dev](https://www.yuripaiva.dev/)
 
