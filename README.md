@@ -1,5 +1,7 @@
 # Welcome! 👋🏻
 
+I 'm an experienced JavaScript Full Stack developer skilled in NextJS, React Native, NodeJS, and NestJS. I bring a versatile background, having worked on backend, mobile, and front-end projects. Committed to delivering user-centric solutions with a touch of creativity.
+
 - 🔭 I’m currently working as a **Front-end** developer (**ReactJS** and **React Native**)
 
 - 💬 Ask me about **JavaScript**, **HTML**, **CSS**, **ReactJS**, **Node.JS**
